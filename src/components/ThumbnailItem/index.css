@@ -1,0 +1,21 @@
+.thumb-sty {
+  margin-right: 8px;
+  margin-bottom: 8px;
+}
+
+.img-sty {
+  height: 50px;
+  width: 50px;
+}
+
+.btn-sty {
+  border: none;
+  outline: none;
+  background-color: #ffff;
+  opacity: 0.5;
+  cursor: pointer;
+}
+
+.selected-img {
+  opacity: 1;
+}

@@ -1,0 +1,40 @@
+* {
+  font-family: 'Roboto';
+}
+
+.bg-main-con {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+}
+
+.card-con {
+  padding: 40px;
+  width: 80%;
+  max-width: 900px;
+}
+
+.selected-img-sty {
+  height: 400px;
+  width: 600px;
+  background-size: cover;
+}
+
+.title {
+  font-size: 25px;
+  color: #1e293b;
+  margin-bottom: 30px;
+}
+
+.pera {
+  font-size: 14px;
+  color: #64748b;
+  font-weight: 500;
+}
+
+.thumbnails-con {
+  display: flex;
+  flex-wrap: wrap;
+  list-style-type: none;
+  padding: 0;
+}
